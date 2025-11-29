@@ -1,0 +1,352 @@
+[
+  {
+    "nome": "Tubarão-branco",
+    "descrição": "Maior predador marinho, conhecido por sua força e tamanho imponente. É um dos tubarões mais icônicos e temidos.",
+    "link": "https://pt.wikipedia.org/wiki/Carcharodon_carcharias",
+    "Tags": [
+      "Predador de topo",
+      "Grande porte",
+      "Migratório",
+      "Ameaçado",
+      "Costeiro"
+    ]
+  },
+  {
+    "nome": "Tubarão-tigre",
+    "descrição": "Conhecido como 'lixeiro do mar' por sua dieta variada. Habita águas tropicais e subtropicais.",
+    "link": "https://pt.wikipedia.org/wiki/Galeocerdo_cuvier",
+    "Tags": [
+      "Águas tropicais",
+      "Dieta variada",
+      "Agressivo",
+      "Costeiro",
+      "Grande porte"
+    ]
+  },
+  {
+    "nome": "Tubarão-martelo",
+    "descrição": "Possui uma cabeça em formato de 'T', que lhe confere uma visão de 360 graus.",
+    "link": "https://pt.wikipedia.org/wiki/Sphyrna",
+    "Tags": [
+      "Visão 360",
+      "Social",
+      "Costeiro",
+      "Ameaçado",
+      "Morfologia única"
+    ]
+  },
+  {
+    "nome": "Tubarão-baleia",
+    "descrição": "É o maior peixe do mundo, alimentando-se por filtração de plâncton e pequenos peixes.",
+    "link": "https://pt.wikipedia.org/wiki/Rhincodon_typus",
+    "Tags": [
+      "Filtrador",
+      "Gigante",
+      "Dócil",
+      "Migratório",
+      "Ameaçado"
+    ]
+  },
+  {
+    "nome": "Tubarão-azul",
+    "descrição": "Conhecido por suas longas migrações e por ter grandes ninhadas de filhotes.",
+    "link": "https://pt.wikipedia.org/wiki/Prionace_glauca",
+    "Tags": [
+      "Migratório longo",
+      "Pelágico",
+      "Vivíparo",
+      "Cor azul",
+      "Ameaçado"
+    ]
+  },
+  {
+    "nome": "Tubarão-mako",
+    "descrição": "Considerado o tubarão mais rápido, podendo atingir grandes velocidades.",
+    "link": "https://pt.wikipedia.org/wiki/Isurus_oxyrinchus",
+    "Tags": [
+      "Rápido",
+      "Pelágico",
+      "Saltador",
+      "Ameaçado",
+      "Endotérmico"
+    ]
+  },
+  {
+    "nome": "Tubarão-limão",
+    "descricao": "Conhecido por sua coloração amarelada que ajuda na camuflagem em fundos arenosos de águas costeiras e estuários. É relativamente dócil e usado em estudos de comportamento.",
+    "link": "https://www.iucnredlist.org/species/39371/10186981",
+    "Tags": [
+      "Costeiro",
+      "Predador",
+      "Vulnerável",
+      "Águas rasas",
+      "Vivíparo"
+    ]
+  },
+  {
+    "nome": "Tubarão-enfermeiro",
+    "descricao": "Uma espécie de fundo noturna, conhecida por sua boca pequena e dentes serrilhados. Passa a maior parte do dia descansando em cavernas ou sob saliências rochosas.",
+    "link": "https://www.floridamuseum.ufl.edu/sharks/library/nurse-shark/",
+    "Tags": [
+      "Bentônico",
+      "Noturno",
+      "Inofensivo",
+      "Águas tropicais"
+    ]
+  },
+  {
+    "nome": "Tubarão-galhudo",
+    "descricao": "Reconhecido pelas pontas pretas distintas em suas barbatanas. Altamente ativo, é encontrado em águas costeiras tropicais e subtropicais ao redor do mundo.",
+    "link": "https://www.iucnredlist.org/species/39474/10237731",
+    "Tags": [
+      "Pelágico",
+      "Pequeno porte",
+      "Migratório",
+      "Comum"
+    ]
+  },
+  {
+    "nome": "Tubarão-oceânico-de-ponta-branca",
+    "descricao": "Uma espécie pelágica de águas quentes, caracterizada pelas pontas brancas de suas nadadeiras. Conhecido por ser um dos tubarões mais agressivos em naufrágios.",
+    "link": "https://www.conservation.org/species/oceanic-whitetip-shark",
+    "Tags": [
+      "Oceânico",
+      "Agressivo",
+      "Criticamente ameaçado",
+      "Grande porte",
+      "Circunglobal"
+    ]
+  },
+  {
+    "nome": "Tubarão-cinzento-dos-recifes",
+    "descricao": "Um dos tubarões mais comuns nos recifes de coral do Indo-Pacífico. Frequentemente visto em grandes grupos e essencial para a saúde dos ecossistemas de recife.",
+    "link": "https://www.fisheries.noaa.gov/species/grey-reef-shark",
+    "Tags": [
+      "Recife",
+      "Indo-Pacífico",
+      "Social",
+      "Manejo de pesca"
+    ]
+  },
+  {
+    "nome": "Tubarão-cabeça-chata",
+    "descricao": "Um tubarão primitivo, único por ter sete fendas branquiais e uma cabeça larga e chata. Habita águas costeiras e estuários, geralmente em profundidades menores.",
+    "link": "https://www.iucnredlist.org/species/39324/10186591",
+    "Tags": [
+      "Primitivo",
+      "Sete guelras",
+      "Fundo rochoso",
+      "Águas temperadas"
+    ]
+  },
+  {
+    "nome": "Tubarão-duende",
+    "descricao": "Uma rara e bizarra espécie de águas profundas, reconhecível pelo seu focinho alongado, em forma de pá, e suas mandíbulas protráteis.",
+    "link": "https://www.britannica.com/animal/goblin-shark",
+    "Tags": [
+      "Abissal",
+      "Raro",
+      "Morfologia única",
+      "Mandíbulas protráteis"
+    ]
+  },
+  {
+    "nome": "Tubarão-frade",
+    "descricao": "O segundo maior peixe do mundo, filtrador de plâncton. Possui uma boca enorme, mas é completamente inofensivo. Vive em águas temperadas ao redor do globo.",
+    "link": "https://www.sharktrust.org/basking-shark",
+    "Tags": [
+      "Filtrador",
+      "Gigante",
+      "Migratório",
+      "Ameaçado"
+    ]
+  },
+  {
+    "nome": "Tubarão-de-seis-guelras",
+    "descricao": "Outra espécie primitiva com seis fendas branquiais. É um grande predador que vive em águas profundas, mas ocasionalmente sobe à noite para se alimentar.",
+    "link": "https://www.floridamuseum.ufl.edu/sharks/library/bluntnose-sixgill-shark/",
+    "Tags": [
+      "Profundidade",
+      "Primitivo",
+      "Seis guelras",
+      "Cosmopolita"
+    ]
+  },
+  {
+    "nome": "Tubarão-serra",
+    "descricao": "Caracterizado por um focinho longo e estreito, com dentes afiados nas bordas (rostrum), usado para atordoar pequenas presas. Não confundir com o peixe-serra.",
+    "link": "https://www.iucnredlist.org/species/60224160/60224164",
+    "Tags": [
+      "Rostrum",
+      "Bentônico",
+      "Águas frias",
+      "Caça noturna"
+    ]
+  },
+  {
+    "nome": "Tubarão-raposa-oceânico",
+    "descricao": "Reconhecido por sua cauda superior extremamente longa (quase metade do seu comprimento total), usada como chicote para atordoar cardumes de peixes.",
+    "link": "https://www.iucnredlist.org/species/41768/206587009",
+    "Tags": [
+      "Cauda longa",
+      "Pelágico",
+      "Vulnerável",
+      "Estratégia de caça"
+    ]
+  },
+  {
+    "nome": "Tubarão-de-pontas-pretas",
+    "descricao": "Semelhante ao tubarão-galhudo, mas encontrado especificamente nos recifes do Caribe. Possui comportamento territorial e alta fidelidade ao local.",
+    "link": "https://www.iucnredlist.org/species/39471/10243452",
+    "Tags": [
+      "Recife",
+      "Caribe",
+      "Territorial",
+      "Migração curta"
+    ]
+  },
+  {
+    "nome": "Tubarão-port-jackson",
+    "descricao": "Um tubarão noturno do sul da Austrália. Possui espinhos nas nadadeiras dorsais e utiliza dentes semelhantes a moedores para comer moluscos e ouriços do mar.",
+    "link": "https://australian.museum/learn/animals/fishes/port-jackson-shark-heterodontus-portusjacksoni/",
+    "Tags": [
+      "Noturno",
+      "Endêmico",
+      "Ovipário",
+      "Dieta dura",
+      "Austrália"
+    ]
+  },
+  {
+    "nome": "Tubarão-anjo",
+    "descricao": "Um tubarão adaptado para viver no fundo, com corpo achatado e barbatanas largas que o fazem parecer uma raia. Enterra-se na areia para emboscar presas.",
+    "link": "https://www.sharktrust.org/angel-shark",
+    "Tags": [
+      "Achatado",
+      "Emboscada",
+      "Bentônico",
+      "Criticamente ameaçado"
+    ]
+  },
+  {
+    "nome": "Tubarão-lixa",
+    "descricao": "Pertencente à família dos Wobbegongs, possui um corpo achatado e franjado que o camufla perfeitamente em recifes rochosos e fundos arenosos da Austrália.",
+    "link": "https://australian.museum/learn/animals/fishes/spotted-wobbegong-orectolobus-maculatus/",
+    "Tags": [
+      "Wobbegong",
+      "Camuflagem",
+      "Austrália",
+      "Caçador noturno"
+    ]
+  },
+  {
+    "nome": "Tubarão-gato-pintado",
+    "descricao": "Pequeno e comum tubarão bentônico encontrado no Atlântico Nordeste. Inofensivo aos humanos, é frequentemente capturado como pesca incidental. Deposita ovos em 'bolsas de sereia'.",
+    "link": "https://www.sharktrust.org/lesser-spotted-dogfish",
+    "Tags": [
+      "Pequeno porte",
+      "Ovipário",
+      "Atlântico",
+      "Fundo arenoso"
+    ]
+  },
+  {
+    "nome": "Tubarão-salmão",
+    "descricao": "Um tubarão de águas frias do Pacífico Norte. É um dos poucos peixes de sangue quente (endotérmico), o que lhe permite caçar em temperaturas baixas.",
+    "link": "https://www.fisheries.noaa.gov/species/salmon-shark",
+    "Tags": [
+      "Endotérmico",
+      "Águas frias",
+      "Pacífico Norte",
+      "Dieta de salmão"
+    ]
+  },
+  {
+    "nome": "Tubarão-cobra",
+    "descricao": "Uma espécie de águas profundas, com uma aparência primitiva que lembra uma enguia ou serpente marinha. Possui seis fendas branquiais com babados.",
+    "link": "https://www.iucnredlist.org/species/41793/2957388",
+    "Tags": [
+      "Primitivo",
+      "Enguia",
+      "Profundidade",
+      "Morfologia rara"
+    ]
+  },
+  {
+    "nome": "Tubarão-pijama",
+    "descricao": "Um pequeno tubarão-gato sul-africano, distintivo por suas cinco listras escuras longitudinais, que lembram listras de pijama. Vive em recifes rochosos.",
+    "link": "https://www.iucnredlist.org/species/161494/62116035",
+    "Tags": [
+      "Pequeno porte",
+      "África do Sul",
+      "Camuflagem",
+      "Noturno"
+    ]
+  },
+  {
+    "nome": "Tubarão-cobre",
+    "descricao": "Também conhecido como tubarão-bronze, é um predador rápido, encontrado principalmente em águas temperadas. Famoso por grandes agregações migratórias.",
+    "link": "https://www.iucnredlist.org/species/41741/2958189",
+    "Tags": [
+      "Migratório",
+      "Águas temperadas",
+      "Agregação social",
+      "Cor bronze"
+    ]
+  },
+  {
+    "nome": "Tubarão-de-seda",
+    "descricao": "Um tubarão pelágico elegante e esbelto, valorizado por sua pele lisa ('seda') e barbatanas. Altamente migratório e severamente ameaçado pela pesca excessiva.",
+    "link": "https://www.worldwildlife.org/species/silky-shark",
+    "Tags": [
+      "Pelágico",
+      "Comércio de barbatana",
+      "Ameaçado",
+      "Migratório longo"
+    ]
+  },
+  {
+    "nome": "Tubarão-pata-de-galinha",
+    "descricao": "Um pequeno tubarão costeiro do Atlântico Ocidental. Sua característica mais notável é o focinho pontudo e fino, daí o nome em algumas regiões.",
+    "link": "https://www.fisheries.noaa.gov/species/atlantic-sharpnose-shark",
+    "Tags": [
+      "Atlântico",
+      "Costeiro",
+      "Pequeno porte",
+      "Rápida reprodução"
+    ]
+  },
+  {
+    "nome": "Tubarão-de-focinho-fino",
+    "descricao": "Uma espécie de águas temperadas do Oceano Pacífico e Índico. É um tubarão de porte médio, reconhecível por seu corpo esguio e focinho alongado.",
+    "link": "https://www.iucnredlist.org/species/41724/2955502",
+    "Tags": [
+      "Indo-Pacífico",
+      "Focinho alongado",
+      "Vivíparo",
+      "Predador de peixes"
+    ]
+  },
+  {
+    "nome": "Tubarão-nariz-grande",
+    "descricao": "Uma das três espécies de tubarão-raposa. Caracterizado por olhos enormes (adaptados para caçar em águas mais profundas) e cauda longa usada para atordoar presas.",
+    "link": "https://www.iucnredlist.org/species/41744/206587397",
+    "Tags": [
+      "Olhos grandes",
+      "Profundidade",
+      "Cauda longa",
+      "Vulnerável"
+    ]
+  },
+  {
+    "nome": "Tubarão-de-fundo",
+    "descricao": "Um pequeno tubarão-gato encontrado no Atlântico leste. É um animal bentônico, que se alimenta de pequenos invertebrados e peixes. Possui manchas escuras distintas.",
+    "link": "https://www.sharktrust.org/spotted-houndshark",
+    "Tags": [
+      "Bentônico",
+      "Atlântico Leste",
+      "Invertebrados",
+      "Inofensivo"
+    ]
+  }
+]
