@@ -6,7 +6,6 @@ async function carregarDados() {
     try {
         const resposta = await fetch("tutubas.json");
         dados = await resposta.json();
-        renderizaCards(dados);
     } catch (error) {
         console.error("Erro ao carregar os dados:", error);
     }
@@ -36,5 +35,6 @@ function renderizaCards(dados) {
         cardContainer.appendChild(article);
     }
 }
+
 
 window.onload = carregarDados; // Carrega todos os dados quando a página é iniciada
